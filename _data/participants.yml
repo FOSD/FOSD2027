@@ -1,0 +1,111 @@
+- name: Bjarke Hammerbak Paluszewski
+  title: Synthesizing Feature Models from Rust Configurations with an FCA-based analysis
+  university: University of Southern Denmark
+
+- name: Christopher Rau
+  title: Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing
+  university: TU Braunschweig
+
+- name: Dirk Neumann
+  title: "The Variability-Aware Virtual Single Underlying Model: Operationalizing Variability and Developing Consistent Product Lines"
+  university: Karlsruhe Institute of Technology
+
+- name: Evelyn Rühl
+  title: Feature Localization based on Large Language Models
+  university: University of Siegen
+
+- name: Francisco Jose Dominguez Mayo
+  title: Toward an Innovation-Oriented SPL Methodology for On-Premise Intelligent Systems
+  university: University of Seville
+
+- name: Francisco Sebastian Benitez Ruis Diaz
+  title: Integration of Feature Models into the Model Context Protocol (MCP) for Dynamic Configuration of Data Analysis Interfaces
+  university: University of Seville
+
+- name: Kallistos Weis
+  title: Time-Aware Performance-Influence Modeling in the Spectral Domain
+  university: Saarland University
+
+- name: Lukas Abelt
+  title: Pitfalls, challenges and learnings when adopting new approaches for performance benchmarking of configurable software systems
+  university: Saarland University
+
+- name: Malte Grave
+  title: "Explaining Why: Towards Explainable SMT-Based Consistency Checking in Variability-Intensive Cyber-Physical Production Systems"
+  university: Johannes Kepler Universität Linz
+
+- name: Malte Lochau
+  title: Sampling-based Testing for Partial Quantum State Tomography
+  university: University of Siegen
+
+- name: Mathis Weiß
+  title: Modeling Approaches and Testing Strategies for Independent Features in Configurable Software
+  university: University of Siegen
+
+- name: Morten Harter
+  title: Modularity, Variability and Evolution for Threat Analysis and Risk Assessment
+  university: Karlsruhe Institute of Technology
+
+- name: Norbert Siegmund
+  title: "The Promise of Tailor-Made Software: From Tale to Reality"
+  university: Leipzig University
+
+- name: Rahel Sundermann
+  title: Fixing Feature Mappings
+  university: TU Braunschweig
+
+- name: Raphael Dunkel
+  title: Engineering and Selecting Machine Learning Features for Feature Models
+  university: TU Braunschweig
+
+- name: Roman Bögli
+  title: "Exploring Community-Driven Variability: The Bitcoin Case"
+  university: University of Bern
+
+- name: Ruben Dunkel
+  title: Towards the Extraction of Implicit Variability From R Research Scripts
+  university: TU Braunschweig
+
+- name: Sandra Kaae Johansen & Sofie Løfberg
+  title: Why your grandma was a computer scientist? - A special configuration use case
+  university: University of Southern Denmark
+
+- name: Sebastian Böhm
+  title: Exploring the Effects of Feature Granularity and Data-Flow Complexity on Program Comprehension
+  university: Saarland University
+
+- name: Sebastian Krieter
+  title: Tackling Expressive FM Constructs with Pseudo-Boolean d-DNNF Compilation 
+  university: TU Braunschweig
+
+- name: Sebastian Simon
+  title: "A Socio-Technical Perspective on Configuration Spaces: Insights into Technology Ecosystems, Contributor Dynamics, and Evolution in Open-Source Software Projects"
+  university: Leipzig University
+
+- name: Simon Bothe
+  title: Enabling Cross-Domain Consistency Preservation for Delta-Oriented Product Line Development
+  university: Karlsruhe Institute of Technology
+
+- name: Simon Butt
+  title: Reconstruction of Cardinality-Based Feature Models
+  university: University of Siegen
+
+- name: Stefan Sobernig
+  title: Staged adaptation of a general-purpose large-language model for building a localised UVL code recommender
+  university: WU Wien
+
+- name: Thomas Thüm
+  title: WIFI - What is a Feature Interaction?
+  university: TU Braunschweig
+
+- name: Tim Bächle
+  title: Towards Family-Based Vulnerability Discovery for Highly-Configurable Software Systems
+  university: Karlsruhe Institute of Technology
+
+- name: Tobias Dick
+  title: "Exceptional Configuration Subspaces with Subgroup Discovery: What Works Best?"
+  university: Saarland University
+
+
+
+
