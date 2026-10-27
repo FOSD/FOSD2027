@@ -45,11 +45,11 @@ The format of an FOSD meeting consists of short presentations from each particip
 <table>
   <tr>
     <td>Abstract Submission Deadline</td>
-    <td>TBD</td>
+    <td>December 4, 2026</td>
   </tr>
   <tr>
     <td>Notification of Acceptance</td>
-    <td>TBD</td>
+    <td>December 16, 2026</td>
   </tr>
   <tr>
     <td>Registration Deadline</td>
