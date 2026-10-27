@@ -57,7 +57,7 @@ The format of an FOSD meeting consists of short presentations from each particip
   </tr>
   <tr>
     <td>FOSD Meeting 2026</td>
-    <td>March 23 - 27, 2026</td>
+    <td>March 23 - 26, 2026</td>
   </tr>
 </table>
 
